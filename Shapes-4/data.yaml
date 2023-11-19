@@ -1,0 +1,16 @@
+names:
+- Circle
+- Decision
+- Oval
+- Rectangle
+- Square
+nc: 5
+roboflow:
+  license: Public Domain
+  project: shapes-lkhtg
+  url: https://universe.roboflow.com/personalshapes/shapes-lkhtg/dataset/4
+  version: 4
+  workspace: personalshapes
+test: ../test/images
+train: Shapes-4/train/images
+val: Shapes-4/valid/images
